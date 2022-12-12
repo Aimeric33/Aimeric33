@@ -2,7 +2,7 @@
 👋 Hello, I'm Aimeric !<br>I am a freelance fullstack web developer who is passionate about creating web apps for inspiring projects with a real impact on the society. I live in Bordeaux, France and I'm available to work. Don't hesitate to contact me for anything !
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aimeric-marchau/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/aimericmarchau) 
 
 # 💻 Tech Stack
