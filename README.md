@@ -1,4 +1,4 @@
-## 👋 Hello I'm Aimeric 🧑‍💻
+### 👋 Hello I'm Aimeric 🧑‍💻
 
 I am a freelancer fullstack web developer and no-code builder living in Bordeaux, France 🍷<br>
 I am also a teacher in Le Wagon's web development bootcamp and Webflow skill course several days per month 🚂
