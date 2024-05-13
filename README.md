@@ -12,7 +12,7 @@ I am also a teacher in Le Wagon's web development bootcamp and Webflow skill cou
 ##
 ### 💡 Currently developing:
 - websites for the political campaign of Les Ecologistes for the European elections 2024 : [main website here](https://www.ecologie2024.eu/)
-- a web app which is a family organizer to create groceries lists, save recipes, plan weekly meals and more (personal project) : [website here](https://famizy-d00e2858d8fe.herokuapp.com/) | [repo here](https://github.com/Aimeric33/famizy)
+- a web app which is a family organizer to create groceries lists, save recipes, plan weekly meals and more (personal project) : [website here](https://famizy.com/) | [repo here](https://github.com/Aimeric33/famizy)
 
 ## 
 ### 💬 Contact me
